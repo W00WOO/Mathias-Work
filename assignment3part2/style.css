@@ -1,0 +1,22 @@
+html {
+  font-family: sans-serif;
+}
+
+/* Your CSS below here */
+div {
+  width: 370px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  line-height: 295px;
+  font-size: 2.1rem;
+  background-color: #e40000f3;
+  color: #FFFFFF;
+  border-radius: 30px;
+  border: 1px solid rgb(50, 0, 85);
+  background-image: linear-gradient(to right bottom, rgba(255, 0, 0, 0.93), rgb(150, 0, 0));
+  box-shadow: 5px 5px 5px rgba(7, 0, 0, 0.7);
+  text-shadow: 2px 2px 2px black;
+  
+}
